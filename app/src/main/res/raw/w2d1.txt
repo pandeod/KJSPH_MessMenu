@@ -1,0 +1,2 @@
+BREAKFAST :mendu vada
+LUNCH :veg pulav , 3 fold paratha , paneer kurma , basundi , raita 

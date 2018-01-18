@@ -1,0 +1,4 @@
+BREAKFAST : poha 
+LUNCH :  Rice , Chapati , aloo shimla mirch , toor daal , Salad
+SNACKS : dabeli ( brown bread )
+DINNER :pulav ,paratha , mutter paneer masala , kadhi , raita

@@ -1,0 +1,12 @@
+BREAKFAST :Khaman dhokla
+
+LUNCH : Rice Chapati ,
+        chole ,
+        toor daal ,
+        papad
+
+SNACKS : dahi batata puri
+
+ DINNER :schezwan raice ,
+         stuffed paratha ,
+         manchurian ,dahi

@@ -1,0 +1,4 @@
+ BREAKFAST : Omlete with Bread
+LUNCH : Rice , Bhature , chole gravy , Daal fry , papad 
+SNACKS : Potato Cutlet 
+DINNER : Schezwan Rice , Dahi , Paratha , Manchurian 

@@ -1,0 +1,16 @@
+BREAKFAST :Puri Aloo Bhaji
+
+LUNCH : Rice
+       Chapati
+       Kofta currey ,
+       dal tadka ,
+       salad
+
+SNACKS : Sev khamni
+
+DINNER : Rice ,
+         chapati ,
+         shev bhaji ,
+         daal fry ,
+         nimbu achar ,
+         gulab jamun

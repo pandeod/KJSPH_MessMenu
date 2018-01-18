@@ -1,0 +1,8 @@
+BREAKFAST :  onion uttappa
+
+LUNCH : kashimiri pulav ,
+         chapati ,
+         paneer kadhai ,
+         moong daal ,
+         shaahi tukda ,
+         channa chat

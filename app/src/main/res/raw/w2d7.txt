@@ -1,0 +1,4 @@
+BREAKFAST :white dhokla 
+                        " LUNCH :  Rice , Chapati , chawli ki sabji ,  daal fry, chana chat
+                        " SNACKS :veg sandwich 
+                        " DINNER :pulav , chapati , rajma , kadhi , thecha , raita 

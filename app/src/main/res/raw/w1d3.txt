@@ -1,0 +1,16 @@
+BREAKFAST : Idli Sambar
+
+LUNCH : Rice Chapati ,
+        matki ,
+        masoor daal ,
+        salad
+
+SNACKS : Toast sandwich
+
+DINNER : Rice ,
+         Paratha ,
+         Mutter Aloo Masala ,
+         Masoor daal ,
+         Teechs ,
+         papad ,
+         dahi

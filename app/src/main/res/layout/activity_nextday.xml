@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.onkarpande.kjsphmess.nextday"
+    android:background="@color/tb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_margin="10dp"
+        android:elevation="2dp"
+        android:background="@color/wd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/week"
+            android:textSize="20dp"
+            android:textColor="@color/txt"
+            android:padding="5dp"
+            android:layout_margin="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/day"
+            android:textColor="@color/txt"
+            android:layout_margin="10dp"
+            android:textSize="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/sm"
+        android:layout_below="@id/rl"
+        android:background="@color/wd"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/m"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="casual"
+            android:text="Menu Here"
+            android:textColor="@color/txt"
+            android:textSize="25dp" />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/back"
+        android:text="Back"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:textAlignment="center"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="false"
+        android:elevation="2dp"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/wd" />
+
+</RelativeLayout>
+

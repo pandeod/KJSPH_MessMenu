@@ -1,0 +1,14 @@
+BREAKFAST : Atta noodles
+
+LUNCH : Rice Chapati ,
+        baigan aloo gravy ,
+        moong daal ,
+        chana chat
+
+SNACKS : misal paav
+
+ DINNER : Jeera rice ,
+          finger aloo ,
+          chapati ,
+          daal fry ,
+          raita
